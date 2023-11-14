@@ -1,0 +1,3 @@
+[submodule "LangChain-for-LLM-Application-Development"]
+	path = LangChain-for-LLM-Application-Development
+	url = git@github.com:Hongfei-Niu/LangChain-for-LLM-Application-Development.git

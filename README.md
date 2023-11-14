@@ -1,2 +1,7 @@
-# llm_course git init git add --all git commit -m first commit git branch -M main git remote add origin git@github.com:Hongfei-Niu/llm_course.git git push -u origin main
 # llm_course
+
+## Course Materials by Andrew.Ng
+
+* ![ChatGPT Prompt Engineering for Developers](./Prompt/)
+* ![LangChain for LLM Application Development](./LangChain-for-LLM-Application-Development/)
+...
